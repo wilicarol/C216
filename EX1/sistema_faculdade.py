@@ -22,13 +22,10 @@ def atualizar_aluno():
         if aluno["matricula"] == matricula:
             nome = input("Digite o novo nome do aluno: ")
             email = input("Digite o novo e-mail do aluno: ")
-            curso = input("Digite o novo curso do aluno: ")
             if nome:
                 aluno["nome"] = nome
             if email:
                 aluno["email"] = email
-            if curso:
-                aluno["curso"] = curso
             print(f"Aluno com matrícula {matricula} atualizado.")
             return
     print("Aluno não encontrado.")
