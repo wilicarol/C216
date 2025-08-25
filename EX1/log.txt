@@ -1,0 +1,105 @@
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Will Silva
+Digite o e-mail do aluno: will@gec.inatel.br
+Digite o curso do aluno: GEC
+Aluno Will Silva cadastrado com matrícula GEC1.
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Alef Cardoso
+Digite o e-mail do aluno: alef@gea.inatel.br
+Digite o curso do aluno: GEA
+Aluno Alef Cardoso cadastrado com matrícula GEA1.
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Pipe Ramos
+Digite o e-mail do aluno: pipe@gec.inatel.br
+Digite o curso do aluno: GEC
+Aluno Pipe Ramos cadastrado com matrícula GEC2.
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Will Silva, E-mail: will@gec.inatel.br, Curso: GEC
+Matrícula: GEA1, Nome: Alef Cardoso, E-mail: alef@gea.inatel.br, Curso: GEA
+Matrícula: GEC2, Nome: Pipe Ramos, E-mail: pipe@gec.inatel.br, Curso: GEC
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 3
+CASO NÃO QUEIRA ALTERAR ALGUM CAMPO, DEIXE EM BRANCO!
+Digite a matrícula do aluno que deseja atualizar: GEA1
+Digite o novo nome do aluno: Alefe A. Cardoso
+Digite o novo e-mail do aluno: 
+Aluno com matrícula GEA1 atualizado.
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Will Silva, E-mail: will@gec.inatel.br, Curso: GEC
+Matrícula: GEA1, Nome: Alefe A. Cardoso, E-mail: alef@gea.inatel.br, Curso: GEA
+Matrícula: GEC2, Nome: Pipe Ramos, E-mail: pipe@gec.inatel.br, Curso: GEC
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno que deseja remover: GEC1
+Aluno com matrícula GEC1 removido.
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 2
+Matrícula: GEA1, Nome: Alefe A. Cardoso, E-mail: alef@gea.inatel.br, Curso: GEA
+Matrícula: GEC2, Nome: Pipe Ramos, E-mail: pipe@gec.inatel.br, Curso: GEC
+
+ Menu de Opções:
+ 1. Cadastrar aluno
+ 2. Listar alunos
+ 3. Atualizar aluno
+ 4. Remover aluno
+ 5. Sair
+Escolha uma opção: 5
+Saindo do Sistema...
